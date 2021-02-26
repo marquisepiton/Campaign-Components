@@ -1,0 +1,54 @@
+.body{
+    background-image: url('../img/Untitled\ design.png');
+    
+   
+    
+
+    
+    
+    
+}
+.slogan{
+    color: #fff;
+    font-size: 75px;
+    font-weight:bolder ;
+    margin-top: 50px;
+}
+main{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+    font-size: 35px;
+    
+  
+}
+.quote{
+  position: absolute;
+  bottom: 600px;
+  left: 100px;
+  font-size: 18px;
+}
+.logo{
+
+    position: absolute;
+
+    top: 10px;
+    left: 100px;
+
+}
+.tabs{
+    color: #e0412f;
+}
+
+.doomnavone{
+    /* color: #e0412f; */
+    color: #f3ba81;
+   
+
+   
+    
+}
+.doomnavDonate{
+
+    color: #f3ba81;
+    background-color: black;
+}
